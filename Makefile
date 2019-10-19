@@ -15,7 +15,7 @@ install:
 	npm install
 
 start:
-	node app.js
+	node driver.js
 
 clean:
 	rm *.html *.pdf /dev/null
