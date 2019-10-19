@@ -6,6 +6,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "jsonresume-theme-stackoverflow": "^1.4.0",
+    "phantomjs-prebuilt": "^2.1.16",
     "resume-cli": "^1.2.7",
     "serve-static": "^1.14.1"
   },

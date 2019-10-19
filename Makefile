@@ -1,3 +1,6 @@
+RESUME_CLI=node node_modules/resume-cli
+DIR=assets
+
 .PHONY: echo
 
 echo:
@@ -6,10 +9,10 @@ echo:
 build: pdf html
 
 pdf:
-	resume export assets/resume.pdf --theme Stackoverflow
+	$(RESUME_CLI) export resume.pdf --dir=$(DIR) --theme=Stackoverflow
 
 html:
-	resume export assets/resume.html --theme Stackoverflow
+	$(RESUME_CLI) export resume.html --dir=$(DIR) --theme=Stackoverflow
 
 install:
 	npm install
@@ -18,4 +21,4 @@ start:
 	node driver.js
 
 clean:
-	rm *.html *.pdf /dev/null
+	rm *.html *.pdf 2> /dev/null || echo > /dev/null
