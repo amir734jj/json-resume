@@ -1,0 +1,211 @@
+{
+    "basics": {
+        "name": "Seyedamirhossein Hesamian (Amir)",
+        "label": "Software Engineer",
+        "picture": "http://www.hesamian.com/img/profile.jpg",
+        "email": "hesamian@uwm.edu",
+        "phone": "(414) 736-2240",
+        "website": "http://hesamian.com",
+        "summary": "I was born and raised in a very small town (Gorgan, Iran) which is located in South-East of the Caspian Sea. I am very passionate about computers. My interest in computers started when my father bought me a computer for the first time. My first computer was based on Intel 80486 running DOS and I used to play 'The Lion King' on it. My interest in computers went to whole new level when I was a high school freshman and I visited my brother's dorm room, and there I met guy who was finishing his Masters in Computer Science. He showed me a trick to by-pass windows XP's login password. Right after my interaction with that guy, I started learning programming in Visual Basic and I made simple applications using that platform. Then I participated in various Mathematics and Programming competitions across the province. Between ages of 15 to 16, I got heavily involved in writing websites and themes for CMS systems like WordPress, in addition to setting up my own VPN/Proxy/Socks Services and doing reseller web hosting.\n One months after my 17 birthday (summer of 2010) I moved to U.S. Shorewood, WI. I tried to enroll for High School here in U.S. but all public High Schools rejected me as I already got my High School diploma one year early (at age of 17) back in Iran. Therefore, I had no other option but to sign up in a small private High School to improve my English proficiency. In the summer of 2011, I started a summer internship at Swick Technology located in Wauwatosa, WI where I became fascinated with technology and programming to the point that I decided to pursue a degree in Computer Science at UW-Milwaukee. \nI started working with Dr. Pradeep Rohatgi in early 2013 (until Spring of 2015) at UWM's Center for Composites and Advance Materials Manufacturing (CAMM). I worked directly with Dr. Rohatgi, a UWM Distinguished Professor, and also Dr. Roshan (Entrepreneur and Industry Expert) to implement the MAGMA software package, and use it to predict the results of solidification of different materials and predict behavior/results with variation of shape, temperature, Mold types and more. Additionally, I had to teach graduate students (who were taking Material Engineering-732 & Metal Casting Engineering-456 as well as people in our group) how to use the software. The use of MAGMA software gave the team an upper hand as they could simulate the process of solidification. Therefore, they can predict the results and fix any possible errors before they happen. This translates to saving time and money. In particular, over my working experiences at CAMM, I utilized my knowledge in Computational Geometry and Differential Equations (especially partial differential equations).\n I also was involved with Dr. Rohatgi's team regarding the Governor of Wisconsin's Business Plan Contest in both 2013 and 2014. In particular, I became especially interested in Business Plan preparation. I observed and contributed to the process of preparing business plans and presenting to venture investors. That process was so fascinating for me that I decided to take Innovation and Commercialization class (CS657) to advance his knowledge. In particular, I am most interested in the process of commercialization and creating a successful enterprise.\n In summer of 2015, I was an Intern Application Developer at Northwestern mutual (Enterprise Project Solution department. OBA project. Milwaukee downtown), and I was helping scrum team by: Working mostly with Underscore.js, Backbone.js, and Backbone-forms module for front-end of outside business activity wizard web application, and also Node.js / Express.js for proof of concept work. As well as Adding grunt and bower to build the project's dependencies, Minify Java-Script files and perform package management and versioning. In addition to converting all of the outside business activity disclosure forms to the relational database format (IBM DB2 and SQLite), in addition to design wizard steps and paths to allow wizard web application fetch data and create forms. Lastly, I worked briefly with Java EE and Web-Sphere for back-end (WebUI and Web Services). I learned many valuable experiences by working there including: collaboration, being an effective team member and successfully delivering a software to the client.",
+        "location": {
+            "address": "4944 N Santa Monica Blvd.",
+            "postalCode": "WI 53217",
+            "city": "Whitefish Bay",
+            "countryCode": "US",
+            "region": "Wisconson"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "hesamian",
+                "url": "https://www.linkedin.com/in/hesamian/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "University of Wisconsin-Milwaukee",
+            "position": "Graduate teaching assistant",
+            "website": "http://uwm.edu",
+            "startDate": "2019-09-01",
+            "summary": "Description...",
+            "highlights": [
+                "Teaching assistant for CS-351: Data Structures & Algorithms"
+            ]
+        },
+        {
+            "company": "Northwestern Mutual",
+            "position": "Software Engineer",
+            "website": "http://northwesternmutual.com",
+            "startDate": "2017-11-01",
+            "summary": "Description...",
+            "highlights": [
+                "Utilized MongoDB, .NET Core and React/Redux to build a bond benchmarking application",
+                "Utilized and extended C# LINQ Expression tree to create a business rule engine",
+                "Utilized StructureMap library (IoC) to implement a proxy pattern for data-access-layer (DAL)",
+                "Utilized dynamic proxy and AOP paradigm to implement dynamic method parameter validation",
+                "Utilized asynchronous python (PyMongo + Motor) to create a mongo database cleanup script",
+                "Utilized windows service, Akka.NET and SignalR to create a distributed application",
+                "Utilized Kafka, Azure Event-Hub and Vue.js to create a real-time log monitoring page",
+                "Utilized Scala Spark to create a compute engine for bond investment benchmark calculations",
+                "Created a company-wide .NET Core boilerplate to be used for future applications",
+                "Created a CSV library to import/export complex objects",
+                "Created a C# library to emit simple C# classes and include them in the application all at runtime",
+                "Created a JWT token management FSM to manage/refresh JWT tokens",
+                "Conducted multiple company-wide C# .NET Core / Angular workshops"
+            ]
+        },
+        {
+            "company": "Brady Corporation",
+            "position": "Software Engineer",
+            "website": "http://bradyid.com",
+            "startDate": "2017-01-01",
+            "endDate": "2017-10-30",
+            "summary": "Description...",
+            "highlights": [
+                "Worked as part of the digital team, using jQuery, Backbone.js (legacy), Angularjs and Foundation to upgrade existing e-commerce website (BradyID.com) and componentize JavaScript codes",
+                "Created a single-page JS app to product search and narrow down categories/subcategories by interacting with Elasticsearch API ",
+                "Contributed to making website mobile responsive using CSS, SASS and flex-box",
+                "Converted legacy Backbone.js code to Angular.js",
+                "Introduced Node, Bower and Gulp to build task to manage front-end dependencies",
+                "Worked with C#, Sitecore and .NET Standard for back-end",
+                "Wrote Selenium tests in C# using ChromeDriver and PhantomJS (headless browser)"
+            ]
+        },
+        {
+            "company": "University of Wisconsin-Milwaukee",
+            "position": "Graduate teaching assistant",
+            "website": "http://uwm.edu",
+            "startDate": "2015-09-01",
+            "endDate": "2017-05-30",
+            "summary": "Description...",
+            "highlights": [
+                "Worked mostly with Underscore.js, Backbone.js, and Backbone-forms module for front-end of “outside business activity wizard” web application (OBA wizard), and also Node.js / Express.js for proof of concept work",
+                "Added grunt and bower to build the project's dependencies, Minify JavaScript files and perform package management and versioning",
+                "Converted all of the outside business activity disclosure forms to the relational database format (IBM DB2 and SQLite), in addition to design wizard steps and paths to allow wizard application fetch data and create forms",
+                "Worked briefly with Java EE and WebSphere for the back-end (Web-UI and Web Services)"
+            ]
+        },
+        {
+            "company": "University of Wisconsin-Milwaukee",
+            "position": "Graduate teaching assistant",
+            "website": "http://uwm.edu",
+            "startDate": "2015-09-01",
+            "endDate": "2019-09-01",
+            "summary": "Description...",
+            "highlights": [
+                "TA for CS-315 (Assembly language programming - MIPS). Duties and responsibilities:",
+                "Conduct discussion and lab sessions",
+                "Write and grade questions for programming sections of the exams",
+                "Write and grade weekly programming homework",
+                "Write lecture notes for students and other TAs responsible for this class"
+            ]
+        }
+    ],
+    "volunteer": [],
+    "education": [
+        {
+            "institution": "University of Wisconsin-Milwaukee",
+            "area": "Computer Science",
+            "studyType": "Ph.D.",
+            "startDate": "2018-01-01",
+            "gpa": "3.5",
+            "courses": [
+                "CS732: Type-Systems",
+                "CS754: Compilers",
+                "CS755: Compiler Implementation Laboratory",
+                "CS854: Advanced Compiler Techniques"
+            ]
+        },
+        {
+            "institution": "University of Wisconsin-Milwaukee",
+            "area": "Computer Science",
+            "studyType": "M.S.",
+            "startDate": "2015-09-01",
+            "endDate": "2019-05-30",
+            "gpa": "3.5",
+            "courses": [
+                "CS700 CEAS Graduate Seminar",
+                "CS755 Information and Coding Theory",
+                "CS723 Natural Language Processing",
+                "CS743 Intelligent User Interfaces",
+                "CS704 Analysis of Algorithms",
+                "CS759 Data Security",
+                "MATH 537 Number Theory"
+            ]
+        },
+        {
+            "institution": "University of Wisconsin-Milwaukee",
+            "area": "Computer Science",
+            "studyType": "B.S.",
+            "startDate": "2011-01-01",
+            "endDate": "2015-05-30",
+            "gpa": "3.5",
+            "courses": [
+                "CS557 Introduction to Database Systems",
+                "CS537 Introduction to Operating Systems",
+                "CS535 Algorithm Design and Analysis",
+                "CS520 Computer Networks",
+                "CS482 Rich Internet Applications",
+                "CS469 Introduction to Computer Security",
+                "CS459 Fundamentals of Computer Graphics",
+                "CS458 Computer Architecture",
+                "CS431 Programming Languages Concepts",
+                "CS417 Introduction to the Theory of Computation",
+                "CS395 Social, Professional, and Ethical Issues",
+                "CS361 Introduction to Software Engineering",
+                "CS351 Data Structures and Algorithms",
+                "CS337 Systems Programming",
+                "CS317 Discrete Information Structures",
+                "CS315 Computer Organization and Assembly Language Programming",
+                "CS251 Intermediate Computer Programming",
+                "CS201 Introductory Computer Programming",
+                "CS150 Survey of Computer Science"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Analysis of BCNS and Newhope Key-exchange Protocols",
+            "publisher": "University of Wisconsin-Milwaukee",
+            "releaseDate": "2017-05-01",
+            "website": "http://publication.com",
+            "summary": "Lattice-based cryptographic primitives are believed to offer resilience against attacks by quantum computers. Following increasing interest from both companies and government agencies in building quantum computers, a number of works have proposed instantiations of practical post-quantum key-exchange protocols based on hard problems in lattices, mainly based on the Ring Learning With Errors (R-LWE) problem.\n In this work we present an analysis of Ring-LWE based key-exchange mechanisms and compare two implementations of Ring-LWE based key-exchange protocol: BCNS and NewHope. This is important as NewHope protocol implementation outperforms state-of-the art elliptic curve based Diffie-Hellman key-exchange X25519, thus showing that using quantum safe key-exchange is not only a viable option but also a faster one. Specifically, this thesis compares different reconciliation methods, parameter choices, noise sampling algorithms and performance."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Full professional proficiency"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Functional programming",
+            "keywords": [
+                "Scala",
+                "F#"
+            ]
+        }
+    ],
+    "references": []
+}
