@@ -3,6 +3,8 @@
 echo:
 	@echo "make pdf|html|install|start|clean"
 
+build: pdf html
+
 pdf:
 	resume export assets/resume.pdf --theme Stackoverflow
 
