@@ -1,11 +1,19 @@
+.PHONY: echo
+
+echo:
+	@echo "make pdf|html|install|start|clean"
+
 pdf:
-	resume export resume.pdf --theme Stackoverflow
+	resume export assets/resume.pdf --theme Stackoverflow
 
 html:
-	resume export resume.html --theme Stackoverflow
+	resume export assets/resume.html --theme Stackoverflow
 
 install:
-	npm install resume-cli jsonresume-theme-stackoverflow
+	npm install
+
+start:
+	node app.js
 
 clean:
 	rm *.html *.pdf /dev/null

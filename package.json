@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "express": "^4.17.1",
+    "jsonresume-theme-stackoverflow": "^1.4.0",
     "resume-cli": "^1.2.7",
-    "jsonresume-theme-stackoverflow": "^1.4.0"
+    "serve-static": "^1.14.1"
   },
   "devDependencies": {},
   "scripts": {
